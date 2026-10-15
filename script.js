@@ -24,10 +24,10 @@ const projectData = {
     description: 'An NLP web app that preprocesses tweet-style text, vectorizes features, and classifies sentiment with confidence scores. The system was designed to be easy to evaluate, refine, and extend with future feedback loops.',
     stack: ['Python', 'NLTK', 'Scikit-learn', 'Flask', 'TF-IDF']
   },
-  market: {
-    title: 'Mini Market Management System',
-    description: 'A desktop business management system for inventory, sales, customer management, invoice generation, and role-based access. It organizes daily operations into a simple and reliable Windows Forms experience.',
-    stack: ['C#', '.NET Framework', 'SQL Server', 'Windows Forms']
+  demandlens: {
+    title: 'DemandLens',
+    description: 'An explainable retail demand forecasting platform using historical sales, pricing, and calendar data. The project brings together preprocessing, exploratory analysis, feature engineering, time-series evaluation, model explainability, and inventory optimization to translate forecasts into practical replenishment recommendations.',
+    stack: ['Python', 'LightGBM', 'SHAP', 'Feature engineering', 'Forecasting']
   }
 };
 
